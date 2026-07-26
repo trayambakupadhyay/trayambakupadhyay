@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Trayambak Upadhyay 👋
 
-<!--
-**trayambakupadhyay/trayambakupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering (CSE) Student at Chandigarh University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
+🌱 Currently learning programming and building my foundation in Computer Science
+🚀 Interested in Software Development, Data Structures & Algorithms, and technology
+📚 Learning every day. Building step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 My Goal
+
+To continuously improve my technical and problem-solving skills, build meaningful projects, gain practical experience, and grow into a skilled Software Engineer.
+
+---
+
+## 🛠️ Currently Learning
+
+* Programming Fundamentals
+* C++
+* Data Structures & Algorithms
+* Git & GitHub
+* Software Development
+
+---
+
+## 📌 My Journey
+
+This GitHub profile will document my learning journey throughout my B.Tech CSE degree — from my first programs and projects to internships and real-world development.
+
+> **Learn. Build. Improve. Repeat. 🚀**
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/trayambak-upadhyay
+
+---
+
+⭐ Thanks for visiting my profile!
